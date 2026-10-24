@@ -1,0 +1,32 @@
+{
+  "name": "ultimate-claude-web-design-tools",
+  "version": "1.0.0",
+  "description": "Ultimate Claude Web Design Tools and Package - one command to equip a project with Claude Code design/animation skills (Emil Kowalski's skill pack, Impeccable, Taste-skill) and Figma + Playwright MCP servers.",
+  "type": "module",
+  "bin": {
+    "ultimate-claude-web-design-tools": "bin/install.mjs"
+  },
+  "files": [
+    "bin"
+  ],
+  "author": "Arda Ata Arslan",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lewstriga48/ultimate-claude-web-design-tools.git"
+  },
+  "keywords": [
+    "claude",
+    "claude-code",
+    "design",
+    "ui",
+    "animation",
+    "mcp",
+    "figma",
+    "playwright",
+    "skills"
+  ],
+  "engines": {
+    "node": ">=20"
+  }
+}
